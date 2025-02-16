@@ -10,7 +10,7 @@ class myApp extends StatelessWidget {
         brightness: Brightness.dark,
         primaryColor: Colors.red,
         appBarTheme: AppBarTheme(
-          color: Colors.grey,
+          color: Colors.black12,
           centerTitle: true,
         ),
 
